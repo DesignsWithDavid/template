@@ -19,6 +19,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 public class exampleFile{
     public static void main(String[] args) {
-        System.out.println("Example File");
+        System.out.println("Gnomovision version 69, Copyright (C) year name of author\n" +
+                "Gnomovision comes with ABSOLUTELY NO WARRANTY; for details\n" +
+                "type `show w'.  This is free software, and you are welcome\n" +
+                "to redistribute it under certain conditions; type `show c' \n" +
+                "for details.");
     }
 }
